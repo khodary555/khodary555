@@ -1,24 +1,30 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=khodary555&show_icons=true&theme=tokyonight" width="360" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Hi,+I'm+Mohamed+Ibrahim+Elkhodary+👋;Computer+%26+Communications+Engineer;Aspiring+Software+Engineer;C+++%7C+Java+%7C+Python+%7C+C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Hi,+I'm+Mohamed+Ibrahim+Elkhodary+👋;Computer+%26+Communications+Engineer;Aspiring+Software+Engineer;C+++%7C+Java+%7C+C)](https://git.io/typing-svg)
 
 🎓 Computer & Communications Engineering — Alexandria University, Faculty of Engineering, expected 2028 — CGPA 3.38
 📍 Alexandria, Egypt — 📞 01275998807
 💻 Seeking software & programming internship — passionate about software development, problem solving, and hardware-based systems
-🌐 Portfolio: [khodary555.github.io](https://khodary555.github.io/)
+🌐 Portfolio: **[khodary555.github.io](https://khodary555.github.io/)** — live demos, credentials, and full project gallery
+
+[![Portfolio](https://img.shields.io/badge/Portfolio_Live-khodary555.github.io-0c1c16?style=for-the-badge&logo=githubpages&logoColor=white)](https://khodary555.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khodary67/)
+[![Email](https://img.shields.io/badge/Email-khodarydone@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khodarydone@gmail.com)
 
 Motivated engineering student who moves between digital logic circuits and C++ systems. Hands-on in programming, logic circuit design, and team engineering projects. Strong team player with communication and time management built through academic work and long-term competitive swimming at Al Ittihad Alexandria Club.
+
+Most used languages: C++ • Java • C
 
 ### 🛠️ Technical Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076CB?style=for-the-badge&logo=mathworks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 Engineering Tools: MATLAB, Simulink — Hardware & Logic Circuit Design — Adobe: Photoshop, Premiere Pro, Illustrator — Strengths: Problem Solving & Debugging
 
@@ -32,6 +38,8 @@ Soft skills: Teamwork • Communication • Time Management • Critical Thinkin
 - [AWS Academy Graduate · Cloud Developing](https://www.credly.com/badges/ff0ba253-7838-4c9d-b949-2c088d059926/public_url) — Verify on Credly
 - [MATLAB Onramp — MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=0d2aa7cb-b789-40c7-a27c-5171561e6f5d&)
 - [Simulink Onramp — MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=951aeb15-86af-4f8c-9e06-06cb8ed7e8ec&)
+
+Full details with badge images live on my portfolio: [khodary555.github.io/#certifications](https://khodary555.github.io/#certifications)
 
 ### 🚀 Projects — Built & Tested
 
@@ -101,15 +109,6 @@ Hardware digital clock and timer with seven-segment displays, counters, buzzer a
 </td></tr>
 </table>
 
-<details>
-<summary>📦 More of mine</summary>
-<br/>
-
-- [study-from-anything](https://github.com/khodary555/study-from-anything) — JavaScript study tool
-- [Portfolio source](https://github.com/khodary555/khodary555.github.io) — this portfolio site
-
-</details>
-
 Beyond engineering: competitive swimmer — Al Ittihad Alexandria Club — discipline, consistency, performing under pressure.
 
 ### 📫 Contact
@@ -118,7 +117,5 @@ Beyond engineering: competitive swimmer — Al Ittihad Alexandria Club — disci
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khodarydone@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/khodary555)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+201275998807)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khodary555&layout=compact&theme=tokyonight" width="360" />
 
 ⭐️ From Alexandria with ambition — building the signal path between hardware and software.
